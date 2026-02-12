@@ -44,21 +44,11 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 
 ## Formações em andamento
 
-| Formação | Instituição | Temas principais |
-|----------|-------------|-------------------|
-| Bootcamp Bradesco – GenAI e Dados | [DIO](https://web.dio.me/users/lucianomjf14) | IA Generativa, LLMs, Engenharia de Prompts, Dados |
+| Formação | Instituição | Foco |
+|----------|-------------|------|
+| Bootcamp Bradesco – GenAI e Dados | [DIO](https://web.dio.me/users/lucianomjf14) | IA Generativa, LLMs, Engenharia de Prompts, Open Finance |
 | Engenheiro de Agentes de IA | [Asimov Academy](https://hub.asimov.academy/curso/engenheiro-de-agentes-de-ia/) | Agentes autônomos, LangChain, LangGraph, CrewAI, MCP, A2A |
-
----
-
-## Estudando atualmente
-
-- Inteligência Artificial Generativa e LLMs
-- Engenharia de Agentes de IA (agentes autônomos, orquestração, protocolos)
-- Engenharia de Prompts aplicada a negócios
-- Frontend Web com ReactJS
-- Open Finance e inovação no Sistema Financeiro Nacional
-- Análise e visualização de dados
+| Frontend Web com ReactJS | [Samsung Ocean](https://oceanbrasil.com/) | React, TypeScript, Vite, TailwindCSS |
 
 ---
 
@@ -66,14 +56,23 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 
 <div align="center">
 
+**Linguagens e Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Ferramentas e Plataformas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
@@ -88,10 +87,10 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 | Área | Detalhes |
 |------|----------|
 | **Gestão e Processos** | Arquitetura organizacional, mapeamento e melhoria de processos, governança |
-| **Dados e Análise** | Excel avançado, análise de dados, visualização e organização do conhecimento |
+| **Dados e Análise** | Análise de dados, visualização, organização do conhecimento |
 | **Inteligência Artificial** | LLMs, engenharia de prompts, IA generativa aplicada a negócios e aprendizagem |
 | **Agentes de IA** | Agentes autônomos, orquestração multi-agente, protocolos MCP e A2A |
-| **Desenvolvimento Web** | ReactJS, JavaScript, frontend |
+| **Desenvolvimento Web** | React, TypeScript, TailwindCSS, Vite, Docker |
 
 ---
 
@@ -100,11 +99,13 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [Open Finance – GenAI Dados](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) | Caderno temático sobre Open Finance no Brasil com guia estratégico, glossário, prompts e recursos visuais gerados com IA | NotebookLM, GitHub, Markdown |
+| [Cidades Inteligentes e ODS](https://github.com/lucianomjf14/cidades-inteligentes-ods) | Apresentação interativa do Mestrado (MADE) sobre Cidades Inteligentes como vetores para os ODS, com globo 3D e animações | JavaScript, Globe.gl, TailwindCSS |
+| [Rick and Morty Cards](https://github.com/lucianomjf14/Treinamento-Ocean) | Aplicação React com cartões de personagens da série Rick and Morty, desenvolvida no curso Samsung Ocean | React, TypeScript, Vite, Docker |
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianomjf14&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=lucianomjf14&hide_border=true" alt="GitHub Streak" />
 
 </div>
