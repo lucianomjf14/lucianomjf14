@@ -31,14 +31,11 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 
 ## Certificações
 
-<div align="center">
-
-<a href="https://www.credly.com/badges/3fdd3552-20b5-4b53-b74d-89798fcc9568/public_url"><img src="https://images.credly.com/size/150x150/images/831b4845-11b7-4449-b157-19743f57107a/blob" alt="LFEL1012: Secure AI/ML-Driven Software Development" width="150"></a>
-
-**[LFEL1012: Secure AI/ML-Driven Software Development](https://www.credly.com/badges/3fdd3552-20b5-4b53-b74d-89798fcc9568/public_url)**
-The Linux Foundation | Jan 2026
-
-</div>
+| Certificação | Instituição | Data | Verificação |
+|--------------|-------------|------|-------------|
+| <a href="https://www.credly.com/badges/3fdd3552-20b5-4b53-b74d-89798fcc9568/public_url"><img src="https://images.credly.com/size/64x64/images/831b4845-11b7-4449-b157-19743f57107a/blob" width="48"></a> **LFEL1012: Secure AI/ML-Driven Software Development** | The Linux Foundation | Jan 2026 | [Credly](https://www.credly.com/badges/3fdd3552-20b5-4b53-b74d-89798fcc9568/public_url) |
+| <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logo=samsung&logoColor=white" height="20"> **Frontend Web com ReactJS: Introdução - Parte 1** (3h) | Samsung Ocean | Jan 2026 | [Certificado](https://oceanbrasil.com/certificado/cml1iwuy9000q13jkzlt4d3rb_6508) |
+| <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logo=samsung&logoColor=white" height="20"> **Frontend Web com ReactJS: Introdução - Parte 2** (3h) | Samsung Ocean | Jan 2026 | [Certificado](https://oceanbrasil.com/certificado/cml9wijsm000ztq3xjz3yigwe_6507) |
 
 ---
 
@@ -56,6 +53,7 @@ The Linux Foundation | Jan 2026
 - Inteligência Artificial Generativa e LLMs
 - Engenharia de Agentes de IA (agentes autônomos, orquestração, protocolos)
 - Engenharia de Prompts aplicada a negócios
+- Frontend Web com ReactJS
 - Open Finance e inovação no Sistema Financeiro Nacional
 - Análise e visualização de dados
 
@@ -66,6 +64,8 @@ The Linux Foundation | Jan 2026
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -88,6 +88,7 @@ The Linux Foundation | Jan 2026
 | **Dados e Análise** | Excel avançado, análise de dados, visualização e organização do conhecimento |
 | **Inteligência Artificial** | LLMs, engenharia de prompts, IA generativa aplicada a negócios e aprendizagem |
 | **Agentes de IA** | Agentes autônomos, orquestração multi-agente, protocolos MCP e A2A |
+| **Desenvolvimento Web** | ReactJS, JavaScript, frontend |
 
 ---
 
