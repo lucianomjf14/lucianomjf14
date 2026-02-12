@@ -12,7 +12,6 @@
 
 Juiz de Fora, MG, Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-marinho-silveira)
 [![DIO](https://img.shields.io/badge/DIO-7C3AED?style=for-the-badge)](https://web.dio.me/users/lucianomjf14)
 [![Lattes](https://img.shields.io/badge/Lattes_CNPq-006B3F?style=for-the-badge)](http://lattes.cnpq.br/8717991759915273)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianomjf14@gmail.com)
