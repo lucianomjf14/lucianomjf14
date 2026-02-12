@@ -40,11 +40,3 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [Open Finance – GenAI Dados](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) | Caderno temático sobre Open Finance no Brasil com guia estratégico, glossário, prompts e recursos visuais gerados com IA | NotebookLM, GitHub, Markdown |
-
----
-
-<div align="center">
-
-*"A inteligência artificial não substitui o pensamento crítico — ela o amplifica."*
-
-</div>
