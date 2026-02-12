@@ -29,9 +29,19 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 
 ---
 
+## Formações em andamento
+
+| Formação | Instituição | Temas principais |
+|----------|-------------|-------------------|
+| Bootcamp Bradesco – GenAI e Dados | [DIO](https://web.dio.me/users/lucianomjf14) | IA Generativa, LLMs, Engenharia de Prompts, Dados |
+| Engenheiro de Agentes de IA | [Asimov Academy](https://hub.asimov.academy/curso/engenheiro-de-agentes-de-ia/) | Agentes autônomos, LangChain, LangGraph, CrewAI, MCP, A2A |
+
+---
+
 ## Estudando atualmente
 
 - Inteligência Artificial Generativa e LLMs
+- Engenharia de Agentes de IA (agentes autônomos, orquestração, protocolos)
 - Engenharia de Prompts aplicada a negócios
 - Open Finance e inovação no Sistema Financeiro Nacional
 - Análise e visualização de dados
@@ -51,6 +61,7 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
 
@@ -63,6 +74,7 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 | **Gestão e Processos** | Arquitetura organizacional, mapeamento e melhoria de processos, governança |
 | **Dados e Análise** | Excel avançado, análise de dados, visualização e organização do conhecimento |
 | **Inteligência Artificial** | LLMs, engenharia de prompts, IA generativa aplicada a negócios e aprendizagem |
+| **Agentes de IA** | Agentes autônomos, orquestração multi-agente, protocolos MCP e A2A |
 
 ---
 
