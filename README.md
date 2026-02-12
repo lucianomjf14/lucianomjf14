@@ -36,6 +36,7 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 | <a href="https://www.credly.com/badges/3fdd3552-20b5-4b53-b74d-89798fcc9568/public_url"><img src="https://images.credly.com/size/64x64/images/831b4845-11b7-4449-b157-19743f57107a/blob" width="48"></a> **LFEL1012: Secure AI/ML-Driven Software Development** | The Linux Foundation | Jan 2026 | [Credly](https://www.credly.com/badges/3fdd3552-20b5-4b53-b74d-89798fcc9568/public_url) |
 | <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logo=samsung&logoColor=white" height="20"> **Frontend Web com ReactJS: Introdução - Parte 1** (3h) | Samsung Ocean | Jan 2026 | [Certificado](https://oceanbrasil.com/certificado/cml1iwuy9000q13jkzlt4d3rb_6508) |
 | <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logo=samsung&logoColor=white" height="20"> **Frontend Web com ReactJS: Introdução - Parte 2** (3h) | Samsung Ocean | Jan 2026 | [Certificado](https://oceanbrasil.com/certificado/cml9wijsm000ztq3xjz3yigwe_6507) |
+| <img src="https://img.shields.io/badge/Asimov_Academy-FF6F00?style=flat&logoColor=white" height="20"> **Introdução à Lógica de Programação** (3h) | Asimov Academy | Dez 2025 | [Certificado](https://hub.asimov.academy/validar-certificado/06ccc86c-0d8e-48f0-8180-dc391a84a4a8/) |
 
 ---
 
