@@ -29,6 +29,19 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 
 ---
 
+## Certificações
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/3fdd3552-20b5-4b53-b74d-89798fcc9568/public_url"><img src="https://images.credly.com/size/150x150/images/831b4845-11b7-4449-b157-19743f57107a/blob" alt="LFEL1012: Secure AI/ML-Driven Software Development" width="150"></a>
+
+**[LFEL1012: Secure AI/ML-Driven Software Development](https://www.credly.com/badges/3fdd3552-20b5-4b53-b74d-89798fcc9568/public_url)**
+The Linux Foundation | Jan 2026
+
+</div>
+
+---
+
 ## Formações em andamento
 
 | Formação | Instituição | Temas principais |
