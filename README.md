@@ -70,6 +70,7 @@ Profissional com trajetória acadêmica sólida: Graduação em Administração 
 **Linguagens e Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -85,6 +86,7 @@ Profissional com trajetória acadêmica sólida: Graduação em Administração 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -104,6 +106,7 @@ Profissional com trajetória acadêmica sólida: Graduação em Administração 
 | **Inteligência Artificial** | LLMs, engenharia de prompts, IA generativa aplicada a negócios e aprendizagem |
 | **Agentes de IA** | Agentes autônomos, orquestração multi-agente, protocolos MCP e A2A |
 | **Desenvolvimento Web** | React, TypeScript, TailwindCSS, Vite, Docker |
+| **Automação e APIs** | Google Workspace APIs (Gmail, Drive, Sheets), Flask, OAuth2, integração de serviços |
 
 ---
 
@@ -111,6 +114,7 @@ Profissional com trajetória acadêmica sólida: Graduação em Administração 
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+| [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando) | Dashboard de automação do Google Workspace (Gmail, Drive, Sheets) com análise inteligente de documentos via IA generativa, interface web e CLI com 30+ comandos | Python, Flask, Google APIs, Gemini AI |
 | [Open Finance – GenAI Dados](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) | Caderno temático sobre Open Finance no Brasil com guia estratégico, glossário, prompts e recursos visuais gerados com IA | NotebookLM, GitHub, Markdown |
 | [Cidades Inteligentes e ODS](https://github.com/lucianomjf14/cidades-inteligentes-ods) | Apresentação interativa do Mestrado (MADE) sobre Cidades Inteligentes como vetores para os ODS, com globo 3D e animações | JavaScript, Globe.gl, TailwindCSS |
 | [Rick and Morty Cards](https://github.com/lucianomjf14/Treinamento-Ocean) | Aplicação React com cartões de personagens da série Rick and Morty, desenvolvida no curso Samsung Ocean | React, TypeScript, Vite, Docker |
