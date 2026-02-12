@@ -25,7 +25,15 @@ Juiz de Fora, MG, Brasil
 
 ## Sobre mim
 
-Profissional com formação em Administração (Mestrado), atuando na interseção entre gestão organizacional, processos, dados e inteligência artificial. Interesse em aplicar IA generativa, LLMs e engenharia de prompts para transformar dados em conhecimento estratégico e apoiar a tomada de decisão.
+Profissional com trajetória acadêmica sólida — Graduação em Administração de Empresas, Pós-Graduação em Gestão Pública Municipal e Mestrado em Administração e Desenvolvimento Empresarial (MADE/Estácio). Atuo na interseção entre gestão organizacional, processos, dados e inteligência artificial, com interesse em aplicar IA generativa, LLMs e engenharia de prompts para transformar dados em conhecimento estratégico e apoiar a tomada de decisão.
+
+---
+
+## Publicações
+
+| Publicação | Tipo | Contexto |
+|------------|------|----------|
+| **Gestão de Cidades Inteligentes como Vetores para os ODS** | Artigo Científico | Mestrado MADE – Estácio |
 
 ---
 
@@ -39,6 +47,9 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 | <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logo=samsung&logoColor=white" height="20"> **Frontend Web com ReactJS: Introdução - Parte 1** (3h) | Samsung Ocean | Jan 2026 | [Certificado](https://oceanbrasil.com/certificado/cml1iwuy9000q13jkzlt4d3rb_6508) |
 | <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logo=samsung&logoColor=white" height="20"> **Frontend Web com ReactJS: Introdução - Parte 2** (3h) | Samsung Ocean | Jan 2026 | [Certificado](https://oceanbrasil.com/certificado/cml9wijsm000ztq3xjz3yigwe_6507) |
 | <img src="https://img.shields.io/badge/Asimov_Academy-FF6F00?style=flat&logoColor=white" height="20"> **Introdução à Lógica de Programação** (3h) | Asimov Academy | Dez 2025 | [Certificado](https://hub.asimov.academy/validar-certificado/06ccc86c-0d8e-48f0-8180-dc391a84a4a8/) |
+| <img src="https://img.shields.io/badge/ENAP-006B3F?style=flat&logoColor=white" height="20"> **Tecnologias na Educação: Docência e Tutoria EaD** (30h) | ENAP | — | — |
+| <img src="https://img.shields.io/badge/ENAP-006B3F?style=flat&logoColor=white" height="20"> **Introdução ao ESG** (4h) | ENAP | — | — |
+| <img src="https://img.shields.io/badge/ENAP-006B3F?style=flat&logoColor=white" height="20"> **Carreira em I.A.** (2h) | ENAP | — | — |
 
 ---
 
