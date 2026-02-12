@@ -76,11 +76,6 @@ Profissional com formação em Administração (Mestrado), atuando na interseç�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianomjf14&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomjf14&layout=compact&langs_count=6&hide_border=true" alt="Top Langs" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucianomjf14&hide_border=true" alt="GitHub Streak" />
 
 </div>
