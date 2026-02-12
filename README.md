@@ -20,7 +20,7 @@ Juiz de Fora, MG, Brazil
 
 Mestre em Administração e Desenvolvimento Empresarial (MADE/Estácio), com graduação em Administração e pós-graduação em Gestão Pública. Atuo na interseção entre **estratégia de produto**, **arquitetura organizacional** e **inteligência artificial**, com foco em transformar processos complexos em produtos digitais escaláveis.
 
-Construo prototípos funcionais, automatizo operações e uso IA generativa como ferramenta de descoberta e validação — da concepção ao MVP.
+Construo protótipos funcionais, automatizo operações e uso IA generativa como ferramenta de descoberta e validação, da concepção ao MVP.
 
 ---
 
@@ -32,13 +32,13 @@ Construo prototípos funcionais, automatizo operações e uso IA generativa como
 | **Arquitetura Organizacional** | Mapeamento e redesenho de processos, governança, escala operacional |
 | **Dados e Decisão** | Análise de dados para tomada de decisão, visualização, indicadores de produto |
 | **IA Aplicada a Produtos** | LLMs, engenharia de prompts, IA generativa para automação e insights |
-| **Prototipagem e MVP** | Flask, React, APIs, integrações — da ideia ao produto funcional |
+| **Prototipagem e MVP** | Flask, React, APIs, integrações: da ideia ao produto funcional |
 
 ---
 
 ## Stack
 
-**Domínio produtivo** — uso para construir e entregar:
+**Domínio produtivo** · uso para construir e entregar:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
@@ -47,7 +47,7 @@ Construo prototípos funcionais, automatizo operações e uso IA generativa como
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
 
-**Em desenvolvimento** — estudo ativo e projetos de formação:
+**Em desenvolvimento** · estudo ativo e projetos de formação:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -55,7 +55,7 @@ Construo prototípos funcionais, automatizo operações e uso IA generativa como
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Ferramentas de IA** — uso como acelerador de produto:
+**Ferramentas de IA** · uso como acelerador de produto:
 
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
@@ -80,8 +80,8 @@ Construo prototípos funcionais, automatizo operações e uso IA generativa como
 
 ---
 
-### [Open Finance — Caderno Estratégico](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1)
-**Problema:** O ecossistema de Open Finance no Brasil é complexo e fragmentado — falta material consolidado que conecte regulamentação, estratégia e aplicação prática.
+### [Open Finance: Caderno Estratégico](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1)
+**Problema:** O ecossistema de Open Finance no Brasil é complexo e fragmentado. Falta material consolidado que conecte regulamentação, estratégia e aplicação prática.
 
 **Solução:** Caderno temático que organiza fontes oficiais (BCB, CMN), mapeia oportunidades e entrega artefatos prontos: glossário, prompts estratégicos, infográfico e mapa mental.
 
@@ -109,7 +109,7 @@ Construo prototípos funcionais, automatizo operações e uso IA generativa como
 ---
 
 ### [Rick and Morty Cards](https://github.com/lucianomjf14/Treinamento-Ocean)
-**Contexto:** Projeto de formação em React (Samsung Ocean) — aplicação funcional com consumo de API, roteamento e deploy via Docker.
+**Contexto:** Projeto de formação em React (Samsung Ocean). Aplicação funcional com consumo de API, roteamento e deploy via Docker.
 
 **Stack:** React · TypeScript · Vite · TailwindCSS · Docker
 
@@ -119,7 +119,7 @@ Construo prototípos funcionais, automatizo operações e uso IA generativa como
 
 | Título | Instituição |
 |--------|-------------|
-| **Mestrado** em Administração e Desenvolvimento Empresarial | MADE — Estácio |
+| **Mestrado** em Administração e Desenvolvimento Empresarial | MADE / Estácio |
 | **Pós-Graduação** em Gestão Pública Municipal | |
 | **Graduação** em Administração de Empresas | |
 
@@ -139,7 +139,7 @@ Construo prototípos funcionais, automatizo operações e uso IA generativa como
 
 | Programa | Foco |
 |----------|------|
-| Bootcamp Bradesco — GenAI e Dados ([DIO](https://web.dio.me/users/lucianomjf14)) | IA Generativa, LLMs, Open Finance |
+| Bootcamp Bradesco: GenAI e Dados ([DIO](https://web.dio.me/users/lucianomjf14)) | IA Generativa, LLMs, Open Finance |
 | Engenheiro de Agentes de IA ([Asimov Academy](https://hub.asimov.academy/curso/engenheiro-de-agentes-de-ia/)) | LangChain, LangGraph, CrewAI, MCP |
 | Frontend Web com ReactJS ([Samsung Ocean](https://oceanbrasil.com/)) | React, TypeScript, Vite |
 
@@ -150,16 +150,16 @@ Construo prototípos funcionais, automatizo operações e uso IA generativa como
 
 <br>
 
-Product-minded professional with a Master’s in Business Administration, working at the intersection of **product strategy**, **organizational architecture** and **applied AI**. I focus on turning complex processes into scalable digital products — from discovery to MVP.
+Product-minded professional with a Master's in Business Administration, working at the intersection of **product strategy**, **organizational architecture** and **applied AI**. I focus on turning complex processes into scalable digital products, from discovery to MVP.
 
 I build functional prototypes, automate operations and leverage generative AI as a tool for product discovery and validation.
 
 **Looking for:** Senior Product Architect · Product Manager · Strategy Consultant
 
 **Key projects:**
-- [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando) — Google Workspace automation dashboard with AI-powered document analysis (Python, Flask, Gemini)
-- [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) — Strategic notebook on Brazil’s Open Finance ecosystem using GenAI for research synthesis
-- [Smart Cities & SDGs](https://github.com/lucianomjf14/cidades-inteligentes-ods) — Interactive 3D presentation on Smart Cities as drivers for the SDGs (Master’s research)
+- [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando) · Google Workspace automation dashboard with AI-powered document analysis (Python, Flask, Gemini)
+- [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) · Strategic notebook on Brazil's Open Finance ecosystem using GenAI for research synthesis
+- [Smart Cities & SDGs](https://github.com/lucianomjf14/cidades-inteligentes-ods) · Interactive 3D presentation on Smart Cities as drivers for the SDGs (Master's research)
 
 </details>
 
