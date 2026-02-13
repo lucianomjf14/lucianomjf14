@@ -89,7 +89,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 **Solução:** MVP web responsivo (mobile-first) com login duplo (motorista via CPF + código / admin via Google OAuth), treinamento EAD em 12 módulos sobre Lei 13.103, assinatura digital pelo celular (SignaturePad + SHA-256) e certificação instantânea com validade jurídica.
 
-**Stack:** HTML5 · CSS3 · JavaScript (ES6+) · Tailwind CSS · Firebase (Auth + Realtime DB + Hosting)
+**Stack:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Destaques:**
 - **Produto real** em operação com +200 usuários ativos
@@ -110,7 +110,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 **Solução:** Dashboard web + CLI com 30+ comandos que automatiza o ciclo completo: busca inteligente de e-mails, extração de anexos, análise de documentos via IA (Gemini) e registro estruturado em planilhas.
 
-**Stack:** Python · Flask · Google APIs (Gmail, Drive, Sheets) · Gemini AI · OAuth2
+**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-3C78A9?style=flat-square&logo=auth0&logoColor=white)
 
 **Destaques:**
 - Reduz trabalho manual de triagem de documentos
@@ -134,7 +134,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 **Contexto:** Projeto do Bootcamp Bradesco: GenAI e Dados (DIO). Caderno temático que organiza fontes oficiais (BCB, CMN), mapeia oportunidades e entrega artefatos prontos: glossário, prompts estratégicos, infográfico e mapa mental.
 
-**Stack:** NotebookLM · IA Generativa · Markdown · Pesquisa Regulatória
+**Stack:** ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white) ![GenAI](https://img.shields.io/badge/IA_Generativa-10A37F?style=flat-square&logo=openai&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
 
 **Destaques:**
 - Abordagem de **product discovery aplicada a regulamentação**
@@ -152,7 +152,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 **Contexto:** Parte do Mestrado em Administração (MADE/Estácio). Apresentação interativa com globo 3D, transições animadas e visualização de dados geoespaciais sobre governança urbana e ODS.
 
-**Stack:** JavaScript · Globe.gl · TailwindCSS · HTML5
+**Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Globe.gl](https://img.shields.io/badge/Globe.gl-1A1A2E?style=flat-square&logo=threedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Destaques:**
 - Transforma pesquisa acadêmica em **produto visual navegável**
@@ -170,7 +170,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 **Contexto:** Projeto de formação em React (Samsung Ocean). Aplicação funcional com consumo de API, roteamento e deploy via Docker.
 
-**Stack:** React · TypeScript · Vite · TailwindCSS · Docker
+**Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </details>
 
