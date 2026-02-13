@@ -44,6 +44,8 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white)
@@ -73,6 +75,27 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 ---
 
 ## Projetos em destaque
+
+<details>
+<summary><strong>Gestão de Jornada — Motoristas</strong> · Sistema web completo para frota com +200 motoristas</summary>
+
+<br>
+
+**Repositório:** [lucianomjf14/gestao-jornada-motoristas](https://github.com/lucianomjf14/gestao-jornada-motoristas)
+
+**Problema:** Transportadora controlava treinamentos, certificados e comunicados de +200 motoristas via planilhas e papel — sem rastreabilidade e com alto retrabalho.
+
+**Solução:** Plataforma web responsiva (mobile-first) com login duplo (motorista via CPF / admin via Google OAuth), dashboard em tempo real, sistema de cursos com quiz, certificados digitais com QR Code e comunicados centralizados.
+
+**Stack:** HTML5 · CSS3 · JavaScript (Vanilla ES6+) · Tailwind CSS · Firebase (Auth + Realtime DB + Hosting)
+
+**Destaques:**
+- **Produto real** em operação com +200 usuários
+- Dashboard administrativo com KPIs por empresa em tempo real
+- Certificados digitais rastreáveis via QR Code
+- Arquitetura 100% serverless via Firebase
+
+</details>
 
 <details>
 <summary><strong>Painel de Comando</strong> · Automação do Google Workspace com IA</summary>
@@ -191,6 +214,7 @@ I build functional prototypes, automate operations and leverage generative AI as
 **Looking for:** Senior Product Architect · Product Manager · Strategy Consultant
 
 **Key projects:**
+- [Fleet Journey Management](https://github.com/lucianomjf14/gestao-jornada-motoristas) · Full web platform for driver training, certification & fleet management (JavaScript, Firebase, Tailwind CSS) — 200+ active users
 - [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando) · Google Workspace automation dashboard with AI-powered document analysis (Python, Flask, Gemini)
 - [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) · Strategic notebook on Brazil's Open Finance ecosystem using GenAI for research synthesis
 - [Smart Cities & SDGs](https://github.com/lucianomjf14/cidades-inteligentes-ods) · Interactive 3D presentation on Smart Cities as drivers for the SDGs (Master's research)
