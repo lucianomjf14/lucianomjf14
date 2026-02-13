@@ -217,11 +217,14 @@ I build functional prototypes, automate operations and leverage generative AI as
 
 **Looking for:** Senior Product Architect · Product Manager · Strategy Consultant
 
-**Key projects:**
+**Applied projects:**
 - [Fleet Journey Management](https://github.com/lucianomjf14/gestao-jornada-motoristas) · MVP for driver training, digital certification & fleet management under Law 13.103 (JavaScript, Firebase, Tailwind CSS) — 200+ active users
 - [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando) · Google Workspace automation dashboard with AI-powered document analysis (Python, Flask, Gemini)
-- [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) · Strategic notebook on Brazil's Open Finance ecosystem using GenAI for research synthesis
-- [Smart Cities & SDGs](https://github.com/lucianomjf14/cidades-inteligentes-ods) · Interactive 3D presentation on Smart Cities as drivers for the SDGs (Master's research)
+
+**Academic & training projects:**
+- [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) · Bradesco Bootcamp (DIO) — Strategic notebook on Brazil's Open Finance ecosystem using GenAI
+- [Smart Cities & SDGs](https://github.com/lucianomjf14/cidades-inteligentes-ods) · Master's (MADE) — Interactive 3D presentation on Smart Cities as drivers for the SDGs
+- [Rick and Morty Cards](https://github.com/lucianomjf14/Treinamento-Ocean) · Samsung Ocean — React + TypeScript + Docker training project
 
 </details>
 
