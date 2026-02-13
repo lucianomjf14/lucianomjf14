@@ -67,7 +67,13 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 ## Projetos em destaque
 
-### [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando)
+<details>
+<summary><strong>Painel de Comando</strong> · Automação do Google Workspace com IA</summary>
+
+<br>
+
+**Repositório:** [lucianomjf14/Painel-de-Comando](https://github.com/lucianomjf14/Painel-de-Comando)
+
 **Problema:** Equipes gastam horas navegando entre Gmail, Drive e Sheets para localizar, classificar e analisar documentos operacionais.
 
 **Solução:** Dashboard web + CLI com 30+ comandos que automatiza o ciclo completo: busca inteligente de e-mails, extração de anexos, análise de documentos via IA (Gemini) e registro estruturado em planilhas.
@@ -79,9 +85,15 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 - Arquitetura modular com retry automático, thread safety e lazy loading
 - Interface web + CLI completa para diferentes perfis de usuário
 
----
+</details>
 
-### [Open Finance: Caderno Estratégico](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1)
+<details>
+<summary><strong>Open Finance: Caderno Estratégico</strong> · Product discovery aplicada a regulamentação</summary>
+
+<br>
+
+**Repositório:** [lucianomjf14/Bradesco---GenAI-Dados-Projeto-1](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1)
+
 **Problema:** O ecossistema de Open Finance no Brasil é complexo e fragmentado. Falta material consolidado que conecte regulamentação, estratégia e aplicação prática.
 
 **Solução:** Caderno temático que organiza fontes oficiais (BCB, CMN), mapeia oportunidades e entrega artefatos prontos: glossário, prompts estratégicos, infográfico e mapa mental.
@@ -93,9 +105,15 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 - Artefatos reaproveitáveis para equipes de produto em fintechs
 - Uso estratégico de IA generativa para síntese e organização de conhecimento
 
----
+</details>
 
-### [Cidades Inteligentes e ODS](https://github.com/lucianomjf14/cidades-inteligentes-ods)
+<details>
+<summary><strong>Cidades Inteligentes e ODS</strong> · Pesquisa acadêmica transformada em produto visual</summary>
+
+<br>
+
+**Repositório:** [lucianomjf14/cidades-inteligentes-ods](https://github.com/lucianomjf14/cidades-inteligentes-ods)
+
 **Problema:** Apresentar dados complexos sobre governança urbana e ODS de forma que gestores e pesquisadores consigam navegar visualmente.
 
 **Solução:** Apresentação interativa com globo 3D, transições animadas e visualização de dados geoespaciais, desenvolvida como parte do Mestrado (MADE).
@@ -107,12 +125,20 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 - Comunicação de dados complexos para público não-técnico
 - Artigo científico publicado: *Gestão de Cidades Inteligentes como Vetores para os ODS*
 
----
+</details>
 
-### [Rick and Morty Cards](https://github.com/lucianomjf14/Treinamento-Ocean)
+<details>
+<summary><strong>Rick and Morty Cards</strong> · Projeto de formação em React</summary>
+
+<br>
+
+**Repositório:** [lucianomjf14/Treinamento-Ocean](https://github.com/lucianomjf14/Treinamento-Ocean)
+
 **Contexto:** Projeto de formação em React (Samsung Ocean). Aplicação funcional com consumo de API, roteamento e deploy via Docker.
 
 **Stack:** React · TypeScript · Vite · TailwindCSS · Docker
+
+</details>
 
 ---
 
