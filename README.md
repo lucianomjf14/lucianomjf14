@@ -44,6 +44,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
+![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
 
@@ -119,9 +120,9 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 | Título | Instituição |
 |--------|-------------|
-| **Mestrado** em Administração e Desenvolvimento Empresarial | MADE / Estácio |
-| **Pós-Graduação** em Gestão Pública Municipal | |
-| **Graduação** em Administração de Empresas | |
+| **Mestrado** em Administração e Desenvolvimento Empresarial | MADE / Universidade Estácio de Sá |
+| **Pós-Graduação** em Gestão Pública Municipal | Universidade Federal de Rondônia (UNIR) |
+| **Graduação** em Administração de Empresas | Centro Universitário Estácio de Juiz de Fora |
 
 ---
 
