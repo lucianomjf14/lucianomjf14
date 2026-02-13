@@ -101,7 +101,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 </details>
 
 <details open>
-<summary><strong>Painel de Comando</strong> · Automação do Google Workspace com IA (Gemini)</summary>
+<summary><strong>Painel de Comando</strong>  MVP de automação do Google Workspace com IA (Gemini)</summary>
 
 <br>
 
@@ -220,7 +220,7 @@ I build functional prototypes, automate operations and leverage generative AI as
 
 **Applied projects:**
 - [Fleet Journey Management](https://github.com/lucianomjf14/gestao-jornada-motoristas) · MVP for driver training, digital certification & fleet management under Law 13.103 (JavaScript, Firebase, Tailwind CSS)  200+ active users
-- [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando) · Google Workspace automation dashboard with AI-powered document analysis (Python, Flask, Gemini)
+- [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando)  MVP for Google Workspace automation with AI-powered document analysis (Python, Flask, Gemini)
 
 **Academic & training projects:**
 - [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) · Bradesco Bootcamp (DIO)  Strategic notebook on Brazil's Open Finance ecosystem using GenAI
