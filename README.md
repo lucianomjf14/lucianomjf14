@@ -22,6 +22,8 @@ Mestre em Administração e Desenvolvimento Empresarial (MADE/Estácio), com gra
 
 Construo protótipos funcionais, automatizo operações e uso IA generativa como ferramenta de descoberta e validação, da concepção ao MVP.
 
+🟢 **Aberto a oportunidades:** Senior Product Architect · Gerente de Produtos · Consultor de Estratégia
+
 ---
 
 ## Competências-chave
