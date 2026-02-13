@@ -76,16 +76,16 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 ## 🚀 Projetos aplicados
 
-> Produtos reais construídos para resolver problemas de operação — em uso ou validação com usuários.
+> Produtos reais construídos para resolver problemas de operação  em uso ou validação com usuários.
 
 <details open>
-<summary><strong>Gestão de Jornada — Motoristas</strong> · MVP em operação com +200 motoristas · Lei 13.103</summary>
+<summary><strong>Gestão de Jornada  Motoristas</strong> · MVP em operação com +200 motoristas · Lei 13.103</summary>
 
 <br>
 
 **Repositório:** [lucianomjf14/gestao-jornada-motoristas](https://github.com/lucianomjf14/gestao-jornada-motoristas)
 
-**Problema:** Transportadora controlava treinamentos, certificados e comunicados de +200 motoristas via planilhas e papel — sem rastreabilidade e com alto retrabalho.
+**Problema:** Transportadora controlava treinamentos, certificados e comunicados de +200 motoristas via planilhas e papel  sem rastreabilidade e com alto retrabalho.
 
 **Solução:** MVP web responsivo (mobile-first) com login duplo (motorista via CPF + código / admin via Google OAuth), treinamento EAD em 12 módulos sobre Lei 13.103, assinatura digital pelo celular (SignaturePad + SHA-256) e certificação instantânea com validade jurídica.
 
@@ -95,7 +95,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 - **Produto real** em operação com +200 usuários ativos
 - Certificados digitais com hash SHA-256, geolocalização e código verificador
 - Assinatura biométrica via canvas touch (celular) com rastreabilidade completa
-- Conformidade com Lei do Motorista (13.103/2015) — 12 módulos de treinamento
+- Conformidade com Lei do Motorista (13.103/2015)  12 módulos de treinamento
 
 </details>
 
@@ -123,10 +123,10 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 ## 🎓 Projetos acadêmicos e de formação
 
-> Projetos desenvolvidos em bootcamps, cursos e pesquisas — demonstram aprendizado contínuo e profundidade intelectual.
+> Projetos desenvolvidos em bootcamps, cursos e pesquisas  demonstram aprendizado contínuo e profundidade intelectual.
 
 <details>
-<summary><strong>Open Finance: Caderno Estratégico</strong> · Bootcamp Bradesco (DIO) — Product discovery aplicada a regulamentação</summary>
+<summary><strong>Open Finance: Caderno Estratégico</strong> · Bootcamp Bradesco (DIO)  Product discovery aplicada a regulamentação</summary>
 
 <br>
 
@@ -144,7 +144,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 </details>
 
 <details>
-<summary><strong>Cidades Inteligentes e ODS</strong> · Mestrado (MADE) — Pesquisa acadêmica transformada em produto visual</summary>
+<summary><strong>Cidades Inteligentes e ODS</strong> · Mestrado (MADE)  Pesquisa acadêmica transformada em produto visual</summary>
 
 <br>
 
@@ -162,7 +162,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 </details>
 
 <details>
-<summary><strong>Rick and Morty Cards</strong> · Samsung Ocean — Formação em React + Docker</summary>
+<summary><strong>Rick and Morty Cards</strong> · Samsung Ocean  Formação em React + Docker</summary>
 
 <br>
 
@@ -218,13 +218,13 @@ I build functional prototypes, automate operations and leverage generative AI as
 **Looking for:** Senior Product Architect · Product Manager · Strategy Consultant
 
 **Applied projects:**
-- [Fleet Journey Management](https://github.com/lucianomjf14/gestao-jornada-motoristas) · MVP for driver training, digital certification & fleet management under Law 13.103 (JavaScript, Firebase, Tailwind CSS) — 200+ active users
+- [Fleet Journey Management](https://github.com/lucianomjf14/gestao-jornada-motoristas) · MVP for driver training, digital certification & fleet management under Law 13.103 (JavaScript, Firebase, Tailwind CSS)  200+ active users
 - [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando) · Google Workspace automation dashboard with AI-powered document analysis (Python, Flask, Gemini)
 
 **Academic & training projects:**
-- [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) · Bradesco Bootcamp (DIO) — Strategic notebook on Brazil's Open Finance ecosystem using GenAI
-- [Smart Cities & SDGs](https://github.com/lucianomjf14/cidades-inteligentes-ods) · Master's (MADE) — Interactive 3D presentation on Smart Cities as drivers for the SDGs
-- [Rick and Morty Cards](https://github.com/lucianomjf14/Treinamento-Ocean) · Samsung Ocean — React + TypeScript + Docker training project
+- [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) · Bradesco Bootcamp (DIO)  Strategic notebook on Brazil's Open Finance ecosystem using GenAI
+- [Smart Cities & SDGs](https://github.com/lucianomjf14/cidades-inteligentes-ods) · Master's (MADE)  Interactive 3D presentation on Smart Cities as drivers for the SDGs
+- [Rick and Morty Cards](https://github.com/lucianomjf14/Treinamento-Ocean) · Samsung Ocean  React + TypeScript + Docker training project
 
 </details>
 
