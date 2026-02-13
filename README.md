@@ -85,7 +85,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 **Problema:** Transportadora controlava treinamentos, certificados e comunicados de +200 motoristas via planilhas e papel — sem rastreabilidade e com alto retrabalho.
 
-**Solução:** Plataforma web responsiva (mobile-first) com login duplo (motorista via CPF / admin via Google OAuth), dashboard em tempo real, sistema de cursos com quiz, certificados digitais com QR Code e comunicados centralizados.
+**Solução:** Plataforma web responsiva (mobile-first) com login duplo (motorista via CPF / admin via Google OAuth), dashboard em tempo real, sistema de cursos com quiz, certificados digitais com hash SHA-256 e comunicados centralizados.
 
 **Stack:** HTML5 · CSS3 · JavaScript (Vanilla ES6+) · Tailwind CSS · Firebase (Auth + Realtime DB + Hosting)
 
