@@ -77,7 +77,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 ## Projetos em destaque
 
 <details>
-<summary><strong>Gestão de Jornada — Motoristas</strong> · Sistema web completo para frota com +200 motoristas</summary>
+<summary><strong>Gestão de Jornada — Motoristas</strong> · MVP de gestão de jornada e certificação digital  Lei 13.103</summary>
 
 <br>
 
@@ -92,7 +92,7 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 **Destaques:**
 - **Produto real** em operação com +200 usuários
 - Dashboard administrativo com KPIs por empresa em tempo real
-- Certificados digitais rastreáveis via QR Code
+- Certificados digitais com assinatura SHA-256 e rastreabilidade
 - Arquitetura 100% serverless via Firebase
 
 </details>
@@ -214,7 +214,7 @@ I build functional prototypes, automate operations and leverage generative AI as
 **Looking for:** Senior Product Architect · Product Manager · Strategy Consultant
 
 **Key projects:**
-- [Fleet Journey Management](https://github.com/lucianomjf14/gestao-jornada-motoristas) · Full web platform for driver training, certification & fleet management (JavaScript, Firebase, Tailwind CSS) — 200+ active users
+- [Fleet Journey Management](https://github.com/lucianomjf14/gestao-jornada-motoristas) · MVP for driver training, digital certification & fleet management under Law 13.103 (JavaScript, Firebase, Tailwind CSS) — 200+ active users
 - [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando) · Google Workspace automation dashboard with AI-powered document analysis (Python, Flask, Gemini)
 - [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) · Strategic notebook on Brazil's Open Finance ecosystem using GenAI for research synthesis
 - [Smart Cities & SDGs](https://github.com/lucianomjf14/cidades-inteligentes-ods) · Interactive 3D presentation on Smart Cities as drivers for the SDGs (Master's research)
