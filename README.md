@@ -74,103 +74,103 @@ Construo protótipos funcionais, automatizo operações e uso IA generativa como
 
 ---
 
-## u{1F680} Projetos aplicados
+## 🚀 Projetos aplicados
 
-> Produtos reais construu{00ED}dos para resolver problemas de operau{00E7}u{00E3}o u{2014} em uso ou validau{00E7}u{00E3}o com usuu{00E1}rios.
+> Produtos reais construídos para resolver problemas de operação — em uso ou validação com usuários.
 
 <details open>
-<summary><strong>Gestu{00E3}o de Jornada u{2014} Motoristas</strong> u{00B7} MVP em operau{00E7}u{00E3}o com +200 motoristas u{00B7} Lei 13.103</summary>
+<summary><strong>Gestão de Jornada — Motoristas</strong> · MVP em operação com +200 motoristas · Lei 13.103</summary>
 
 <br>
 
-**Repositu{00F3}rio:** [lucianomjf14/gestao-jornada-motoristas](https://github.com/lucianomjf14/gestao-jornada-motoristas)
+**Repositório:** [lucianomjf14/gestao-jornada-motoristas](https://github.com/lucianomjf14/gestao-jornada-motoristas)
 
-**Problema:** Transportadora controlava treinamentos, certificados e comunicados de +200 motoristas via planilhas e papel u{2014} sem rastreabilidade e com alto retrabalho.
+**Problema:** Transportadora controlava treinamentos, certificados e comunicados de +200 motoristas via planilhas e papel — sem rastreabilidade e com alto retrabalho.
 
-**Soluu{00E7}u{00E3}o:** MVP web responsivo (mobile-first) com login duplo (motorista via CPF + cu{00F3}digo / admin via Google OAuth), treinamento EAD em 12 mu{00F3}dulos sobre Lei 13.103, assinatura digital pelo celular (SignaturePad + SHA-256) e certificau{00E7}u{00E3}o instantu{00E2}nea com validade juru{00ED}dica.
+**Solução:** MVP web responsivo (mobile-first) com login duplo (motorista via CPF + código / admin via Google OAuth), treinamento EAD em 12 módulos sobre Lei 13.103, assinatura digital pelo celular (SignaturePad + SHA-256) e certificação instantânea com validade jurídica.
 
-**Stack:** HTML5 u{00B7} CSS3 u{00B7} JavaScript (ES6+) u{00B7} Tailwind CSS u{00B7} Firebase (Auth + Realtime DB + Hosting)
+**Stack:** HTML5 · CSS3 · JavaScript (ES6+) · Tailwind CSS · Firebase (Auth + Realtime DB + Hosting)
 
 **Destaques:**
-- **Produto real** em operau{00E7}u{00E3}o com +200 usuu{00E1}rios ativos
-- Certificados digitais com hash SHA-256, geolocalizau{00E7}u{00E3}o e cu{00F3}digo verificador
-- Assinatura biomu{00E9}trica via canvas touch (celular) com rastreabilidade completa
-- Conformidade com Lei do Motorista (13.103/2015) u{2014} 12 mu{00F3}dulos de treinamento
+- **Produto real** em operação com +200 usuários ativos
+- Certificados digitais com hash SHA-256, geolocalização e código verificador
+- Assinatura biométrica via canvas touch (celular) com rastreabilidade completa
+- Conformidade com Lei do Motorista (13.103/2015) — 12 módulos de treinamento
 
 </details>
 
 <details open>
-<summary><strong>Painel de Comando</strong> u{00B7} Automau{00E7}u{00E3}o do Google Workspace com IA (Gemini)</summary>
+<summary><strong>Painel de Comando</strong> · Automação do Google Workspace com IA (Gemini)</summary>
 
 <br>
 
-**Repositu{00F3}rio:** [lucianomjf14/Painel-de-Comando](https://github.com/lucianomjf14/Painel-de-Comando)
+**Repositório:** [lucianomjf14/Painel-de-Comando](https://github.com/lucianomjf14/Painel-de-Comando)
 
 **Problema:** Equipes gastam horas navegando entre Gmail, Drive e Sheets para localizar, classificar e analisar documentos operacionais.
 
-**Soluu{00E7}u{00E3}o:** Dashboard web + CLI com 30+ comandos que automatiza o ciclo completo: busca inteligente de e-mails, extrau{00E7}u{00E3}o de anexos, anu{00E1}lise de documentos via IA (Gemini) e registro estruturado em planilhas.
+**Solução:** Dashboard web + CLI com 30+ comandos que automatiza o ciclo completo: busca inteligente de e-mails, extração de anexos, análise de documentos via IA (Gemini) e registro estruturado em planilhas.
 
-**Stack:** Python u{00B7} Flask u{00B7} Google APIs (Gmail, Drive, Sheets) u{00B7} Gemini AI u{00B7} OAuth2
+**Stack:** Python · Flask · Google APIs (Gmail, Drive, Sheets) · Gemini AI · OAuth2
 
 **Destaques:**
 - Reduz trabalho manual de triagem de documentos
-- Arquitetura modular com retry automu{00E1}tico, thread safety e lazy loading
-- Interface web + CLI completa para diferentes perfis de usuu{00E1}rio
+- Arquitetura modular com retry automático, thread safety e lazy loading
+- Interface web + CLI completa para diferentes perfis de usuário
 
 </details>
 
 ---
 
-## u{1F393} Projetos acadu{00EA}micos e de formau{00E7}u{00E3}o
+## 🎓 Projetos acadêmicos e de formação
 
-> Projetos desenvolvidos em bootcamps, cursos e pesquisas u{2014} demonstram aprendizado contu{00ED}nuo e profundidade intelectual.
+> Projetos desenvolvidos em bootcamps, cursos e pesquisas — demonstram aprendizado contínuo e profundidade intelectual.
 
 <details>
-<summary><strong>Open Finance: Caderno Estratu{00E9}gico</strong> u{00B7} Bootcamp Bradesco (DIO) u{2014} Product discovery aplicada a regulamentau{00E7}u{00E3}o</summary>
+<summary><strong>Open Finance: Caderno Estratégico</strong> · Bootcamp Bradesco (DIO) — Product discovery aplicada a regulamentação</summary>
 
 <br>
 
-**Repositu{00F3}rio:** [lucianomjf14/Bradesco---GenAI-Dados-Projeto-1](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1)
+**Repositório:** [lucianomjf14/Bradesco---GenAI-Dados-Projeto-1](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1)
 
-**Contexto:** Projeto do Bootcamp Bradesco: GenAI e Dados (DIO). Caderno temu{00E1}tico que organiza fontes oficiais (BCB, CMN), mapeia oportunidades e entrega artefatos prontos: glossu{00E1}rio, prompts estratu{00E9}gicos, infogru{00E1}fico e mapa mental.
+**Contexto:** Projeto do Bootcamp Bradesco: GenAI e Dados (DIO). Caderno temático que organiza fontes oficiais (BCB, CMN), mapeia oportunidades e entrega artefatos prontos: glossário, prompts estratégicos, infográfico e mapa mental.
 
-**Stack:** NotebookLM u{00B7} IA Generativa u{00B7} Markdown u{00B7} Pesquisa Regulatu{00F3}ria
+**Stack:** NotebookLM · IA Generativa · Markdown · Pesquisa Regulatória
 
 **Destaques:**
-- Abordagem de **product discovery aplicada a regulamentau{00E7}u{00E3}o**
-- Artefatos reaproveitu{00E1}veis para equipes de produto em fintechs
-- Uso estratu{00E9}gico de IA generativa para su{00ED}ntese e organizau{00E7}u{00E3}o de conhecimento
+- Abordagem de **product discovery aplicada a regulamentação**
+- Artefatos reaproveitáveis para equipes de produto em fintechs
+- Uso estratégico de IA generativa para síntese e organização de conhecimento
 
 </details>
 
 <details>
-<summary><strong>Cidades Inteligentes e ODS</strong> u{00B7} Mestrado (MADE) u{2014} Pesquisa acadu{00EA}mica transformada em produto visual</summary>
+<summary><strong>Cidades Inteligentes e ODS</strong> · Mestrado (MADE) — Pesquisa acadêmica transformada em produto visual</summary>
 
 <br>
 
-**Repositu{00F3}rio:** [lucianomjf14/cidades-inteligentes-ods](https://github.com/lucianomjf14/cidades-inteligentes-ods)
+**Repositório:** [lucianomjf14/cidades-inteligentes-ods](https://github.com/lucianomjf14/cidades-inteligentes-ods)
 
-**Contexto:** Parte do Mestrado em Administrau{00E7}u{00E3}o (MADE/Estu{00E1}cio). Apresentau{00E7}u{00E3}o interativa com globo 3D, transiu{00E7}u{00F5}es animadas e visualizau{00E7}u{00E3}o de dados geoespaciais sobre governanu{00E7}a urbana e ODS.
+**Contexto:** Parte do Mestrado em Administração (MADE/Estácio). Apresentação interativa com globo 3D, transições animadas e visualização de dados geoespaciais sobre governança urbana e ODS.
 
-**Stack:** JavaScript u{00B7} Globe.gl u{00B7} TailwindCSS u{00B7} HTML5
+**Stack:** JavaScript · Globe.gl · TailwindCSS · HTML5
 
 **Destaques:**
-- Transforma pesquisa acadu{00EA}mica em **produto visual navegu{00E1}vel**
-- Comunicau{00E7}u{00E3}o de dados complexos para pu{00FA}blico nu{00E3}o-tu{00E9}cnico
-- Artigo cientu{00ED}fico publicado: *Gestu{00E3}o de Cidades Inteligentes como Vetores para os ODS*
+- Transforma pesquisa acadêmica em **produto visual navegável**
+- Comunicação de dados complexos para público não-técnico
+- Artigo científico publicado: *Gestão de Cidades Inteligentes como Vetores para os ODS*
 
 </details>
 
 <details>
-<summary><strong>Rick and Morty Cards</strong> u{00B7} Samsung Ocean u{2014} Formau{00E7}u{00E3}o em React + Docker</summary>
+<summary><strong>Rick and Morty Cards</strong> · Samsung Ocean — Formação em React + Docker</summary>
 
 <br>
 
-**Repositu{00F3}rio:** [lucianomjf14/Treinamento-Ocean](https://github.com/lucianomjf14/Treinamento-Ocean)
+**Repositório:** [lucianomjf14/Treinamento-Ocean](https://github.com/lucianomjf14/Treinamento-Ocean)
 
-**Contexto:** Projeto de formau{00E7}u{00E3}o em React (Samsung Ocean). Aplicau{00E7}u{00E3}o funcional com consumo de API, roteamento e deploy via Docker.
+**Contexto:** Projeto de formação em React (Samsung Ocean). Aplicação funcional com consumo de API, roteamento e deploy via Docker.
 
-**Stack:** React u{00B7} TypeScript u{00B7} Vite u{00B7} TailwindCSS u{00B7} Docker
+**Stack:** React · TypeScript · Vite · TailwindCSS · Docker
 
 </details>
 
