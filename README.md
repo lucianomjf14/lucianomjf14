@@ -174,13 +174,11 @@ Esse processo combina:
 
 ## Developer Programs
 
-Member of:
+[![NVIDIA Developer Program](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/developer-program)
+[![GitHub Developer Program](https://img.shields.io/badge/GitHub-Developer_Program-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/integrations/concepts/github-developer-program)
+[![Google Developer Program](https://img.shields.io/badge/Google-Developer_Program-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/program)
 
-- **NVIDIA Developer Program**
-- **GitHub Developer Program**
-- **Google Developer Program**
-
-Participação em ecossistemas de desenvolvedores voltados a software, cloud, inteligência artificial, APIs e ferramentas de desenvolvimento.
+Member of the **NVIDIA Developer Program**, **GitHub Developer Program** and **Google Developer Program**, participating in developer ecosystems focused on software, cloud, artificial intelligence, APIs and modern development tooling.
 
 ---
 
