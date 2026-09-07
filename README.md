@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://github.com/lucianomjf14.png" width="160" alt="Luciano Marinho Silveira">
+<img src="https://github.com/lucianomjf14.png" width="150" alt="Luciano Marinho Silveira">
 
-## Luciano Marinho Silveira
+# Luciano Marinho Silveira
 
-**Product Architect · Estratégia, Processos e IA aplicada a produtos**
+### Founder & CEO · [LMS Tech](https://www.lmstech.app)
 
-Juiz de Fora, MG, Brazil
+**Product Architecture · Agentic Engineering · SaaS**
 
+Juiz de Fora, MG · Brazil
+
+[![LMS Tech](https://img.shields.io/badge/LMS_Tech-Website-111111?style=flat-square)](https://www.lmstech.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-marinho-silveira)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucianomjf14@gmail.com)
 [![Lattes](https://img.shields.io/badge/Lattes_CNPq-006B3F?style=flat-square)](http://lattes.cnpq.br/8717991759915273)
@@ -16,223 +19,225 @@ Juiz de Fora, MG, Brazil
 
 ---
 
-## Sobre mim
+## About
 
-Mestre em Administração e Desenvolvimento Empresarial (MADE/Estácio), com graduação em Administração e pós-graduação em Gestão Pública. Atuo na interseção entre **estratégia de produto**, **arquitetura organizacional** e **inteligência artificial**, com foco em transformar processos complexos em produtos digitais escaláveis.
+Founder & CEO da **LMS Tech**, onde lidero estratégia de produto, arquitetura funcional e desenvolvimento de soluções digitais e plataformas SaaS.
 
-Construo protótipos funcionais, automatizo operações e uso IA generativa como ferramenta de descoberta e validação, da concepção ao MVP.
+Minha formação em Administração e experiência em gestão de operações influenciam diretamente minha forma de construir tecnologia: começo pelo **problema de negócio**, estruturo requisitos e processos e então transformo essa arquitetura em software.
 
-🟢 **Aberto a oportunidades:** Senior Product Architect · Gerente de Produtos · Consultor de Estratégia
+Atualmente trabalho com um modelo de **Human-in-the-loop Agentic Engineering**, utilizando agentes de IA ao longo do ciclo de engenharia, da especificação e análise do codebase à implementação, testes, revisão e entrega.
 
----
-
-## Competências-chave
-
-| Área | Detalhes |
-|------|----------|
-| **Estratégia de Produto** | Discovery, roadmap, priorização, alinhamento entre negócio e tecnologia |
-| **Arquitetura Organizacional** | Mapeamento e redesenho de processos, governança, escala operacional |
-| **Dados e Decisão** | Análise de dados para tomada de decisão, visualização, indicadores de produto |
-| **IA Aplicada a Produtos** | LLMs, engenharia de prompts, IA generativa para automação e insights |
-| **Prototipagem e MVP** | Flask, React, APIs, integrações: da ideia ao produto funcional |
+O objetivo é construir produtos que avancem além do protótipo: **arquitetados para operação, evolução e escala**.
 
 ---
 
-## Stack
+## What I Build
 
-**Domínio produtivo** · uso para construir e entregar:
+**SaaS Platforms**  
+Arquiteturas multi-tenant, autenticação, billing, RBAC, APIs, dashboards e integrações.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white)
-![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat-square&logo=mermaid&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
+**AI & Agentic Systems**  
+Agentes de IA, automações, integração de LLMs e workflows de desenvolvimento assistidos por agentes.
 
-**Em desenvolvimento** · estudo ativo e projetos de formação:
+**Business Systems**  
+Digitalização de processos, sistemas operacionais internos e automação de fluxos administrativos.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**IDEs e ferramentas de IA** · uso como acelerador de produto:
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
+**Product Architecture**  
+Discovery, requisitos, modelagem de domínio, decisões arquiteturais e evolução de produto.
 
 ---
 
-## 🚀 Projetos aplicados
+# Current Products
 
-> Produtos reais construídos para resolver problemas de operação  em uso ou validação com usuários.
+## Recibos Brasil
 
-<details open>
-<summary><strong>Gestão de Jornada  Motoristas</strong> · MVP em operação com +200 motoristas · Lei 13.103</summary>
+Plataforma SaaS para emissão e gestão de recibos digitais voltada a profissionais, autônomos e pequenas empresas.
 
-<br>
+O produto possui arquitetura de SaaS com autenticação, gestão de usuários e clientes, planos e assinaturas, billing, geração de documentos, administração, controles de acesso e infraestrutura de testes.
 
-**Repositório:** [lucianomjf14/gestao-jornada-motoristas](https://github.com/lucianomjf14/gestao-jornada-motoristas)
+**Engineering**
 
-**Problema:** Transportadora controlava treinamentos, certificados e comunicados de +200 motoristas via planilhas e papel  sem rastreabilidade e com alto retrabalho.
+`React · TypeScript · Supabase · PostgreSQL · RLS · Stripe · Cloudflare · Vitest · Playwright`
 
-**Solução:** MVP web responsivo (mobile-first) com login duplo (motorista via CPF + código / admin via Google OAuth), treinamento EAD em 12 módulos sobre Lei 13.103, assinatura digital pelo celular (SignaturePad + SHA-256) e certificação instantânea com validade jurídica.
+**Current focus**
 
-**Stack:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Destaques:**
-- **Produto real** em operação com +200 usuários ativos
-- Certificados digitais com hash SHA-256, geolocalização e código verificador
-- Assinatura biométrica via canvas touch (celular) com rastreabilidade completa
-- Conformidade com Lei do Motorista (13.103/2015)  12 módulos de treinamento
-
-</details>
-
-<details open>
-<summary><strong>Painel de Comando</strong>  MVP de automação do Google Workspace com IA (Gemini)</summary>
-
-<br>
-
-**Repositório:** [lucianomjf14/Painel-de-Comando](https://github.com/lucianomjf14/Painel-de-Comando)
-
-**Problema:** Equipes gastam horas navegando entre Gmail, Drive e Sheets para localizar, classificar e analisar documentos operacionais.
-
-**Solução:** Dashboard web + CLI com 30+ comandos que automatiza o ciclo completo: busca inteligente de e-mails, extração de anexos, análise de documentos via IA (Gemini) e registro estruturado em planilhas.
-
-**Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=flat-square&logo=google&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-3C78A9?style=flat-square&logo=auth0&logoColor=white)
-
-**Destaques:**
-- Reduz trabalho manual de triagem de documentos
-- Arquitetura modular com retry automático, thread safety e lazy loading
-- Interface web + CLI completa para diferentes perfis de usuário
-
-</details>
+Aquisição, experiência mobile, credibilidade do produto, SEO técnico e evolução dos mecanismos de verificação de documentos.
 
 ---
 
-## 🎓 Projetos acadêmicos e de formação
+## LMS Academy
 
-> Projetos desenvolvidos em bootcamps, cursos e pesquisas  demonstram aprendizado contínuo e profundidade intelectual.
+Plataforma SaaS multi-tenant para criação, comercialização e gestão de cursos e treinamentos.
 
-<details>
-<summary><strong>Open Finance: Caderno Estratégico</strong> · Bootcamp Bradesco (DIO)  Product discovery aplicada a regulamentação</summary>
+Projetada para permitir que escolas, empresas, especialistas e creators operem ambientes independentes dentro de uma mesma infraestrutura.
 
-<br>
+**Engineering**
 
-**Repositório:** [lucianomjf14/Bradesco---GenAI-Dados-Projeto-1](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1)
+`Next.js · TypeScript · PostgreSQL · Prisma · RLS · Stripe Connect · Turborepo · Docker · Hono · BullMQ`
 
-**Contexto:** Projeto do Bootcamp Bradesco: GenAI e Dados (DIO). Caderno temático que organiza fontes oficiais (BCB, CMN), mapeia oportunidades e entrega artefatos prontos: glossário, prompts estratégicos, infográfico e mapa mental.
+**Architecture highlights**
 
-**Stack:** ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white) ![GenAI](https://img.shields.io/badge/IA_Generativa-10A37F?style=flat-square&logo=openai&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
+- isolamento multi-tenant por Row-Level Security;
+- monetização e repasses com Stripe Connect;
+- arquitetura modular em monorepo;
+- testes reais de isolamento entre tenants;
+- processamento assíncrono e pipeline de vídeo;
+- design system compartilhado;
+- invariantes arquiteturais documentadas;
+- orquestração agêntica do desenvolvimento.
 
-**Destaques:**
-- Abordagem de **product discovery aplicada a regulamentação**
-- Artefatos reaproveitáveis para equipes de produto em fintechs
-- Uso estratégico de IA generativa para síntese e organização de conhecimento
-
-</details>
-
-<details>
-<summary><strong>Cidades Inteligentes e ODS</strong> · Mestrado (MADE)  Pesquisa acadêmica transformada em produto visual</summary>
-
-<br>
-
-**Repositório:** [lucianomjf14/cidades-inteligentes-ods](https://github.com/lucianomjf14/cidades-inteligentes-ods)
-
-**Contexto:** Parte do Mestrado em Administração (MADE/Estácio). Apresentação interativa com globo 3D, transições animadas e visualização de dados geoespaciais sobre governança urbana e ODS.
-
-**Stack:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Globe.gl](https://img.shields.io/badge/Globe.gl-1A1A2E?style=flat-square&logo=threedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Destaques:**
-- Transforma pesquisa acadêmica em **produto visual navegável**
-- Comunicação de dados complexos para público não-técnico
-- Artigo científico publicado: *Gestão de Cidades Inteligentes como Vetores para os ODS*
-
-</details>
-
-<details>
-<summary><strong>Rick and Morty Cards</strong> · Samsung Ocean  Formação em React + Docker</summary>
-
-<br>
-
-**Repositório:** [lucianomjf14/Treinamento-Ocean](https://github.com/lucianomjf14/Treinamento-Ocean)
-
-**Contexto:** Projeto de formação em React (Samsung Ocean). Aplicação funcional com consumo de API, roteamento e deploy via Docker.
-
-**Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</details>
+**Status:** active development.
 
 ---
 
-## Formação
+## [LMS Tech](https://www.lmstech.app)
 
-| Título | Instituição |
-|--------|-------------|
-| **Mestrado** em Administração e Desenvolvimento Empresarial | MADE / Universidade Estácio de Sá |
-| **Pós-Graduação** em Gestão Pública Municipal | Universidade Federal de Rondônia (UNIR) |
-| **Graduação** em Administração de Empresas | Centro Universitário Estácio de Juiz de Fora |
+Ecossistema de produtos e soluções digitais com foco em **SaaS, automação de processos e inteligência artificial aplicada a operações reais**.
 
----
+A LMS Tech desenvolve produtos próprios e soluções digitais voltadas à transformação de processos de negócio em sistemas escaláveis, combinando arquitetura de produto, software e IA.
 
-## Certificações relevantes
+A infraestrutura atual explora automação comercial, agentes de IA, sistemas administrativos, integrações, pagamentos e plataformas multi-tenant.
 
-| Certificação | Emissor |
-|--------------|---------|
-| <a href="https://www.credly.com/badges/3fdd3552-20b5-4b53-b74d-89798fcc9568/public_url"><img src="https://images.credly.com/size/64x64/images/831b4845-11b7-4449-b157-19743f57107a/blob" width="32"></a> **Secure AI/ML-Driven Software Development** (LFEL1012) | The Linux Foundation |
-| **Aplicações Práticas da Inteligência Artificial** | [DIO](https://www.dio.me/certificate/3LJIPBVY) |
-| **Técnicas de Engenharia de Prompt** | [DIO](https://www.dio.me/certificate/8ZOTOROM) |
+**Engineering**
+
+`React · TypeScript · Vite · Firebase · Vercel · Serverless APIs · Applied AI`
+
+🌐 **[www.lmstech.app](https://www.lmstech.app)**
 
 ---
 
-## Formações em andamento
+## Engineering Model
 
-| Programa | Foco |
-|----------|------|
-| Bootcamp Bradesco: GenAI e Dados ([DIO](https://web.dio.me/users/lucianomjf14)) | IA Generativa, LLMs, Open Finance |
-| Engenheiro de Agentes de IA ([Asimov Academy](https://hub.asimov.academy/curso/engenheiro-de-agentes-de-ia/)) | LangChain, LangGraph, CrewAI, MCP |
-| Frontend Web com ReactJS ([Samsung Ocean](https://oceanbrasil.com/)) | React, TypeScript, Vite |
+```text
+Business Problem
+      ↓
+Product Discovery
+      ↓
+Specification / Issue / ADR
+      ↓
+AI Engineering Agents
+      ↓
+Implementation
+      ↓
+Automated Tests + E2E
+      ↓
+CI / Quality Gates
+      ↓
+Pull Request + Review
+      ↓
+Deployment
+      ↓
+Product Feedback
+```
+
+Esse processo combina:
+
+**Product Architecture**  
++ **Spec-driven Development**  
++ **AI Agent Orchestration**  
++ **Human-in-the-loop Engineering**  
++ **Automated Testing**  
++ **CI/CD**  
++ **PR-based Delivery**
 
 ---
 
-<details>
-<summary><strong>🇬🇧 English version</strong></summary>
+## Core Areas
 
-<br>
+| Area | Focus |
+|---|---|
+| **Product Architecture** | Discovery, requisitos, priorização, domínio e roadmap |
+| **Agentic Engineering** | Coding agents, delegação, supervisão e workflows multiagente |
+| **SaaS Architecture** | Multi-tenancy, auth, billing, RBAC e APIs |
+| **Applied AI** | LLMs, agentes, automação e integração de IA em produtos |
+| **Process Engineering** | Mapeamento, redesenho e digitalização de operações |
+| **Software Delivery** | GitHub, testes, E2E, CI/CD, PRs e documentação arquitetural |
+| **Data & Decision** | Indicadores, análise e suporte à tomada de decisão |
 
-Product-minded professional with a Master's in Business Administration, working at the intersection of **product strategy**, **organizational architecture** and **applied AI**. I focus on turning complex processes into scalable digital products, from discovery to MVP.
+---
 
-I build functional prototypes, automate operations and leverage generative AI as a tool for product discovery and validation.
+## Technology
 
-**Looking for:** Senior Product Architect · Product Manager · Strategy Consultant
+**Applications**  
+`TypeScript · React · Next.js · JavaScript · Python`
 
-**Applied projects:**
-- [Fleet Journey Management](https://github.com/lucianomjf14/gestao-jornada-motoristas) · MVP for driver training, digital certification & fleet management under Law 13.103 (JavaScript, Firebase, Tailwind CSS)  200+ active users
-- [Painel de Comando](https://github.com/lucianomjf14/Painel-de-Comando)  MVP for Google Workspace automation with AI-powered document analysis (Python, Flask, Gemini)
+**Backend & Data**  
+`PostgreSQL · Supabase · Firebase · Prisma · APIs`
 
-**Academic & training projects:**
-- [Open Finance Playbook](https://github.com/lucianomjf14/Bradesco---GenAI-Dados-Projeto-1) · Bradesco Bootcamp (DIO)  Strategic notebook on Brazil's Open Finance ecosystem using GenAI
-- [Smart Cities & SDGs](https://github.com/lucianomjf14/cidades-inteligentes-ods) · Master's (MADE)  Interactive 3D presentation on Smart Cities as drivers for the SDGs
-- [Rick and Morty Cards](https://github.com/lucianomjf14/Treinamento-Ocean) · Samsung Ocean  React + TypeScript + Docker training project
+**Infrastructure & Delivery**  
+`Cloudflare · Vercel · Docker · GitHub Actions · Git`
 
-</details>
+**AI Engineering**  
+`LLMs · Coding Agents · MCP · Agent Orchestration · AI-assisted Research`
+
+---
+
+## Developer Programs
+
+Member of:
+
+- **NVIDIA Developer Program**
+- **GitHub Developer Program**
+- **Google Developer Program**
+
+Participação em ecossistemas de desenvolvedores voltados a software, cloud, inteligência artificial, APIs e ferramentas de desenvolvimento.
+
+---
+
+## Selected Applied Projects
+
+### Gestão de Jornada de Motoristas
+
+Sistema web mobile-first para treinamento, documentação e gestão operacional de motoristas.
+
+Inclui treinamento EAD, certificação, assinatura eletrônica manuscrita, mecanismos de integridade e verificação documental.
+
+`JavaScript · Firebase · Tailwind CSS`
+
+[Ver projeto](https://github.com/lucianomjf14/gestao-jornada-motoristas)
+
+---
+
+### Painel de Comando
+
+Sistema de automação do Google Workspace para localização, extração, organização e análise de documentos operacionais.
+
+`Python · Flask · Google APIs · Gemini · OAuth2`
+
+[Ver projeto](https://github.com/lucianomjf14/Painel-de-Comando)
+
+---
+
+## Background
+
+**Mestrado em Administração e Desenvolvimento Empresarial**  
+MADE · Universidade Estácio de Sá
+
+**Pós-Graduação em Gestão Pública Municipal**  
+Universidade Federal de Rondônia
+
+**Graduação em Administração**  
+Centro Universitário Estácio de Juiz de Fora
+
+### Selected Certification
+
+**Secure AI/ML-Driven Software Development**  
+The Linux Foundation
+
+---
+
+## Professional Focus
+
+I work at the intersection of **business strategy, product architecture and AI-assisted software engineering**.
+
+As Founder & CEO of **[LMS Tech](https://www.lmstech.app)**, I focus on turning operational problems into scalable digital products using a human-in-the-loop agentic development model.
+
+**Building products where business, software architecture and autonomous engineering meet.**
 
 ---
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=lucianomjf14&color=0A66C2&style=flat-square&label=Visitors)
+**Strategic partnerships · Product collaboration · SaaS · Applied AI**
 
 </div>
