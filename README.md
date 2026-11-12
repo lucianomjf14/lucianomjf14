@@ -1,241 +1,119 @@
 <div align="center">
 
-<img src="https://github.com/lucianomjf14.png" width="150" alt="Luciano Marinho Silveira">
+<img src="https://github.com/lucianomjf14.png" width="140" alt="Luciano Marinho Silveira">
 
 # Luciano Marinho Silveira
 
-### Founder & CEO · [LMS Tech](https://www.lmstech.app)
+**Sistemas digitais · Automação de processos · IA aplicada · Testes e operações**
 
-**Product Architecture · Agentic Engineering · SaaS**
+Administrador e mestre em Administração | Juiz de Fora, MG · Brasil
 
-Juiz de Fora, MG · Brazil
-
-[![LMS Tech](https://img.shields.io/badge/LMS_Tech-Website-111111?style=flat-square)](https://www.lmstech.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-marinho-silveira)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucianomjf14@gmail.com)
-[![Lattes](https://img.shields.io/badge/Lattes_CNPq-006B3F?style=flat-square)](http://lattes.cnpq.br/8717991759915273)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-marinho-silveira)
+[![LMS Tech](https://img.shields.io/badge/LMS_Tech-Website-222222?style=flat-square)](https://www.lmstech.app)
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-006B3F?style=flat-square)](http://lattes.cnpq.br/8717991759915273)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucianomjf14@gmail.com)
 
 </div>
 
 ---
 
-## About
+## Sobre mim
 
-Founder & CEO da **LMS Tech**, onde lidero estratégia de produto, arquitetura funcional e desenvolvimento de soluções digitais e plataformas SaaS.
+Atuo na **construção, operação, automação e melhoria de sistemas digitais**, combinando minha formação em Administração com experiência prática em aplicações web, integração de serviços e investigação de problemas.
 
-Minha formação em Administração e experiência em gestão de operações influenciam diretamente minha forma de construir tecnologia: começo pelo **problema de negócio**, estruturo requisitos e processos e então transformo essa arquitetura em software.
+Utilizo ferramentas como **Claude Code e Codex** em fluxos de desenvolvimento assistido por IA, com supervisão humana, revisão de alterações, testes e documentação. Tenho interesse especial em trabalhos técnicos de execução: fazer sistemas funcionarem, investigar falhas, verificar resultados e tornar processos mais eficientes.
 
-Atualmente trabalho com um modelo de **Human-in-the-loop Agentic Engineering**, utilizando agentes de IA ao longo do ciclo de engenharia, da especificação e análise do codebase à implementação, testes, revisão e entrega.
+Minha experiência anterior em operações e gestão administrativo-financeira contribui para compreender as regras e necessidades de negócio, mas o foco atual do meu trabalho é **a execução técnica e a melhoria contínua de soluções digitais**.
 
-O objetivo é construir produtos que avancem além do protótipo: **arquitetados para operação, evolução e escala**.
+## Projetos selecionados
 
----
+Os projetos abaixo incluem aplicações públicas e privadas. **Repositório privado não significa projeto público ou código disponível:** as descrições apresentam apenas características gerais, sem expor código proprietário, credenciais ou dados de clientes.
 
-## What I Build
+### 1. Recibos Brasil | SaaS de documentos digitais
 
-**SaaS Platforms**  
-Arquiteturas multi-tenant, autenticação, billing, RBAC, APIs, dashboards e integrações.
+Aplicação web para emissão e gestão de recibos, com geração de PDF, autenticação, funcionalidades para usuários e clientes, APIs e componentes de cobrança.
 
-**AI & Agentic Systems**  
-Agentes de IA, automações, integração de LLMs e workflows de desenvolvimento assistidos por agentes.
+- **Tecnologias:** React, TypeScript, Supabase, PostgreSQL, Stripe e Cloudflare.
+- **Trabalho técnico:** implementação e evolução de fluxos, testes automatizados, CI e deploy.
+- **Estado:** site disponibilizado e produto em evolução; a existência de integrações no código não implica que todos os fluxos comerciais estejam homologados.
+- **Código-fonte:** privado.
 
-**Business Systems**  
-Digitalização de processos, sistemas operacionais internos e automação de fluxos administrativos.
+**[Conhecer o Recibos Brasil](https://recibosbrasil.com)**
 
-**Product Architecture**  
-Discovery, requisitos, modelagem de domínio, decisões arquiteturais e evolução de produto.
+### 2. Sistema de ordens de serviço | Projeto de cliente sob confidencialidade
 
----
+Aplicação web/PWA para apoiar o registro, a execução e o acompanhamento de ordens de serviço por equipes em campo.
 
-# Current Products
+- **Trabalho técnico:** fluxos de execução, controle de acesso, validações e testes de integração.
+- **Evidências técnicas internas:** testes de regras de acesso com emuladores e jornada automatizada em navegadores desktop e mobile.
+- **Divulgação:** sem identificação do cliente, marca, telas, código-fonte ou dados operacionais.
 
-## Recibos Brasil
+### 3. BancoTV | Experiência interativa para jogos de tabuleiro
 
-Plataforma SaaS para emissão e gestão de recibos digitais voltada a profissionais, autônomos e pequenas empresas.
+Aplicação que conecta jogadores pelo celular a uma tela compartilhada. O foco é acompanhar saldos e movimentações da partida, mantendo a interação com o tabuleiro físico.
 
-O produto possui arquitetura de SaaS com autenticação, gestão de usuários e clientes, planos e assinaturas, billing, geração de documentos, administração, controles de acesso e infraestrutura de testes.
+- **Tecnologias:** JavaScript, HTML/CSS, QR Code e comunicação PeerJS/WebRTC.
+- **Trabalho técnico:** lógica de regras e transações, sincronização entre dispositivos, registro de eventos e recursos de exportação/importação.
+- **Estado:** MVP em validação; existem testes de regras no repositório, além de pendências documentadas de segurança, compatibilidade e direitos de uso.
+- **Código-fonte:** privado.
 
-**Engineering**
+### 4. Painel de Comando | Automação do Google Workspace
 
-`React · TypeScript · Supabase · PostgreSQL · RLS · Stripe · Cloudflare · Vitest · Playwright`
+MVP público em Python e Flask para integrar tarefas de Gmail, Google Drive e Google Sheets em uma interface web e uma CLI.
 
-**Current focus**
+- **Tecnologias:** Python, Flask, Google APIs e OAuth 2.0.
+- **Trabalho técnico:** organização e busca de documentos, rotinas de integração, fila de processamento e recursos de análise documental/OCR.
+- **Estado:** MVP; funcionalidades descritas no repositório não equivalem a validação independente em produção.
 
-Aquisição, experiência mobile, credibilidade do produto, SEO técnico e evolução dos mecanismos de verificação de documentos.
+**[Examinar o código e a documentação](https://github.com/lucianomjf14/Painel-de-Comando)**
 
----
+### 5. LMS Academy | Infraestrutura para cursos on-line
 
-## LMS Academy
+Projeto de plataforma de aprendizagem multi-tenant, estruturado como monorepo e com componentes para autenticação, isolamento de dados, cobrança e processamento assíncrono.
 
-Plataforma SaaS multi-tenant para criação, comercialização e gestão de cursos e treinamentos.
+- **Tecnologias:** Next.js, TypeScript, PostgreSQL, Prisma, Row-Level Security, Stripe Connect, Turborepo e Docker.
+- **Trabalho técnico:** módulos de infraestrutura, validações de schema, testes de isolamento e integração contínua.
+- **Estado:** desenvolvimento; parte dos módulos de experiência do aluno e de administração está planejada, não concluída.
+- **Código-fonte:** privado.
 
-Projetada para permitir que escolas, empresas, especialistas e creators operem ambientes independentes dentro de uma mesma infraestrutura.
+### Outro projeto público
 
-**Engineering**
-
-`Next.js · TypeScript · PostgreSQL · Prisma · RLS · Stripe Connect · Turborepo · Docker · Hono · BullMQ`
-
-**Architecture highlights**
-
-- isolamento multi-tenant por Row-Level Security;
-- monetização e repasses com Stripe Connect;
-- arquitetura modular em monorepo;
-- testes reais de isolamento entre tenants;
-- processamento assíncrono e pipeline de vídeo;
-- design system compartilhado;
-- invariantes arquiteturais documentadas;
-- orquestração agêntica do desenvolvimento.
-
-**Status:** active development.
+**[Gestão de Jornada de Motoristas](https://github.com/lucianomjf14/gestao-jornada-motoristas)** — MVP web para treinamento, registros operacionais e emissão de documentos, utilizando JavaScript e Firebase.
 
 ---
 
-## [LMS Tech](https://www.lmstech.app)
+## Competências e ferramentas
 
-Ecossistema de produtos e soluções digitais com foco em **SaaS, automação de processos e inteligência artificial aplicada a operações reais**.
+| Área | Ferramentas e práticas utilizadas |
+| --- | --- |
+| Aplicações web | JavaScript, TypeScript, React, Next.js, Python, Flask |
+| Dados e integrações | PostgreSQL, Supabase, Firebase, APIs REST, Google APIs |
+| Testes e qualidade | Vitest, Playwright, testes de regras, emuladores, revisão de código |
+| Entrega e operação | Git, GitHub Actions, CI/CD, Cloudflare, Vercel, Docker |
+| IA aplicada | Claude Code, Codex, LLMs e fluxos de desenvolvimento assistidos por agentes |
+| Processos | Levantamento de requisitos, documentação, automação e validação de fluxos |
 
-A LMS Tech desenvolve produtos próprios e soluções digitais voltadas à transformação de processos de negócio em sistemas escaláveis, combinando arquitetura de produto, software e IA.
+## Como trabalho
 
-A infraestrutura atual explora automação comercial, agentes de IA, sistemas administrativos, integrações, pagamentos e plataformas multi-tenant.
+1. **Entender o processo:** identificar entradas, saídas, regras e pontos de falha.
+2. **Implementar ou ajustar:** usar código, integrações e ferramentas de IA com revisão humana.
+3. **Verificar:** testar regras, permissões e jornadas de uso, distinguindo evidências de hipóteses.
+4. **Documentar e acompanhar:** registrar alterações, limitações e próximos passos.
 
-**Engineering**
+## Formação
 
-`React · TypeScript · Vite · Firebase · Vercel · Serverless APIs · Applied AI`
+- **Mestrado em Administração e Desenvolvimento Empresarial** — Universidade Estácio de Sá.
+- **Especialização em Gestão Pública Municipal** — Universidade Federal de Rondônia.
+- **Graduação em Administração** — Estácio.
 
-🌐 **[www.lmstech.app](https://www.lmstech.app)**
-
----
-
-## Engineering Model
-
-```text
-Business Problem
-      ↓
-Product Discovery
-      ↓
-Specification / Issue / ADR
-      ↓
-AI Engineering Agents
-      ↓
-Implementation
-      ↓
-Automated Tests + E2E
-      ↓
-CI / Quality Gates
-      ↓
-Pull Request + Review
-      ↓
-Deployment
-      ↓
-Product Feedback
-```
-
-Esse processo combina:
-
-**Product Architecture**  
-+ **Spec-driven Development**  
-+ **AI Agent Orchestration**  
-+ **Human-in-the-loop Engineering**  
-+ **Automated Testing**  
-+ **CI/CD**  
-+ **PR-based Delivery**
-
----
-
-## Core Areas
-
-| Area | Focus |
-|---|---|
-| **Product Architecture** | Discovery, requisitos, priorização, domínio e roadmap |
-| **Agentic Engineering** | Coding agents, delegação, supervisão e workflows multiagente |
-| **SaaS Architecture** | Multi-tenancy, auth, billing, RBAC e APIs |
-| **Applied AI** | LLMs, agentes, automação e integração de IA em produtos |
-| **Process Engineering** | Mapeamento, redesenho e digitalização de operações |
-| **Software Delivery** | GitHub, testes, E2E, CI/CD, PRs e documentação arquitetural |
-| **Data & Decision** | Indicadores, análise e suporte à tomada de decisão |
-
----
-
-## Technology
-
-**Applications**  
-`TypeScript · React · Next.js · JavaScript · Python`
-
-**Backend & Data**  
-`PostgreSQL · Supabase · Firebase · Prisma · APIs`
-
-**Infrastructure & Delivery**  
-`Cloudflare · Vercel · Docker · GitHub Actions · Git`
-
-**AI Engineering**  
-`LLMs · Coding Agents · MCP · Agent Orchestration · AI-assisted Research`
-
----
-
-## Developer Programs
-
-[![NVIDIA Developer Program](https://img.shields.io/badge/NVIDIA-Developer_Program-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/developer-program)
-[![GitHub Developer Program](https://img.shields.io/badge/GitHub-Developer_Program-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/integrations/concepts/github-developer-program)
-[![Google Developer Program](https://img.shields.io/badge/Google-Developer_Program-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/program)
-
-Member of the **NVIDIA Developer Program**, **GitHub Developer Program** and **Google Developer Program**, participating in developer ecosystems focused on software, cloud, artificial intelligence, APIs and modern development tooling.
-
----
-
-## Selected Applied Projects
-
-### Gestão de Jornada de Motoristas
-
-Sistema web mobile-first para treinamento, documentação e gestão operacional de motoristas.
-
-Inclui treinamento EAD, certificação, assinatura eletrônica manuscrita, mecanismos de integridade e verificação documental.
-
-`JavaScript · Firebase · Tailwind CSS`
-
-[Ver projeto](https://github.com/lucianomjf14/gestao-jornada-motoristas)
-
----
-
-### Painel de Comando
-
-Sistema de automação do Google Workspace para localização, extração, organização e análise de documentos operacionais.
-
-`Python · Flask · Google APIs · Gemini · OAuth2`
-
-[Ver projeto](https://github.com/lucianomjf14/Painel-de-Comando)
-
----
-
-## Background
-
-**Mestrado em Administração e Desenvolvimento Empresarial**  
-MADE · Universidade Estácio de Sá
-
-**Pós-Graduação em Gestão Pública Municipal**  
-Universidade Federal de Rondônia
-
-**Graduação em Administração**  
-Centro Universitário Estácio de Juiz de Fora
-
-### Selected Certification
-
-**Secure AI/ML-Driven Software Development**  
-The Linux Foundation
-
----
-
-## Professional Focus
-
-I work at the intersection of **business strategy, product architecture and AI-assisted software engineering**.
-
-As Founder & CEO of **[LMS Tech](https://www.lmstech.app)**, I focus on turning operational problems into scalable digital products using a human-in-the-loop agentic development model.
-
-**Building products where business, software architecture and autonomous engineering meet.**
+**Formação complementar selecionada:** Secure AI/ML-Driven Software Development — The Linux Foundation.
 
 ---
 
 <div align="center">
 
-**Strategic partnerships · Product collaboration · SaaS · Applied AI**
+**Automação · Operação de sistemas · Testes · Inteligência artificial aplicada**
+
+[LinkedIn](https://www.linkedin.com/in/luciano-marinho-silveira) · [Lattes](http://lattes.cnpq.br/8717991759915273) · [LMS Tech](https://www.lmstech.app) · [E-mail](mailto:lucianomjf14@gmail.com)
 
 </div>
